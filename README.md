@@ -21,6 +21,7 @@
 - 💻 Google Developer Group on Campus PKNU <sub>(2023.09 ~ )</sub>
 - 🎤 Google I/O Extended Watch Party Busan 연사 <sub>(2024.07)</sub>
 - 🎤 SeSAC Job Festival 연사 <sub>(2024.08)</sub>
+- 💼 부산권 LINC 3.0 창업공유대학 수료 <sub>(2024.08 ~ 2024.12)</sub>
 - 📖 웨어러블 AI 엣지 컴퓨팅 심화 프로젝트 수료 <sub>(2025.01)</sub>
 <br>
 
@@ -35,5 +36,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrtnwjd4212)](https://solved.ac/qkrtnwjd4212)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtnwjd4212&layout=compact&theme=graywhite)
