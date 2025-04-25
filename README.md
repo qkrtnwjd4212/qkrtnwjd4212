@@ -17,7 +17,7 @@
 <br>
 
 ## ✨ Experience
-- 💻 부경대학교 개발동아리 WAP <sub>(2022.09 ~ )</sub>
+- 💻 부경대학교 개발동아리 WAP <sub>(2022.03 ~ )</sub>
 - 💻 Google Developer Group on Campus PKNU <sub>(2023.09 ~ )</sub>
 - 🎤 Google I/O Extended Watch Party Busan 연사 <sub>(2024.07)</sub>
 - 🎤 SeSAC Job Festival 연사 <sub>(2024.08)</sub>
