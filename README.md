@@ -6,7 +6,7 @@
 
 ## 🏆 Awards
 - 🏅 Google - Google Solution Challnege Top3  <sub>(2024.6.27, Fisrt Global Winner in Korea)</sub>
-- 🏅 과학기술정보통신부 - ICT 이노베이션 스퀘어 확산사업 최우수사례 선정 <sub>(2024.11.15)</sub>
+- 🏅 과학기술정보통신부 - ICT 이노베이션 스퀘어 확산사업 우수사례 대상 <sub>(2024.11.15)</sub>
 - 🏅 부경대학교 - 메타버스 경진대회 대상 <sub>(2024.1.15)</sub>
 <br>
 
