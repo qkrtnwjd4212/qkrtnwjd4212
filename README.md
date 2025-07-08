@@ -5,13 +5,17 @@
 <br><br>
 
 ## 🏆 Awards
-- 🏅 Google - Google Solution Challnege Top3  <sub>(2024.6.27, Fisrt Global Winner in Korea)</sub>
-- 🏅 과학기술정보통신부 - ICT 이노베이션 스퀘어 확산사업 우수사례 대상 <sub>(2024.11.15)</sub>
-- 🏅 부경대학교 - 메타버스 경진대회 대상 <sub>(2024.1.15)</sub>
+- 🥇 Google - Google Solution Challnege Top3  <sub>(2024.6.27, Fisrt Global Winner in Korea)</sub>
+- 🥇 과학기술정보통신부 - ICT 이노베이션 스퀘어 확산사업 우수사례 대상 <sub>(2024.11.15)</sub>
+- 🥇 부경대학교 - 메타버스 경진대회 대상 <sub>(2024.1.15)</sub>
+- 🏅 부경대학교 - 2024년 학교를 빛낸 얼굴 표창 <sub>(2025.2.24)</sub>
+- 🥉 부경대학교 - 프로그래밍 경진대회 장려상 <sub>(2025.5.27)</sub>
 <br>
 
 ## 📂 Project
 - [👵🏻 경증 치매 노인을 위한 AI 기억 노트, ‘ATTI’](https://github.com/H0ngJu/atti)
+- [📈 유전 알고리즘을 이용한 TA 지표 최적화와 ESN 학습을 통한 주식 거래 시스템 구현](https://github.com/qkrtnwjd4212/Time_Series_Data_Project)
+- [🔥 라즈베리파이 기반 자동 소방 RC카와 스마트 도로 통제 시스템](https://github.com/qkrtnwjd4212/EmbeddedProject)
 - [🍳 요리 레시피 공유 웹페이지, ‘요리조리’](https://github.com/pknu-wap/2023_1_Wap_Web_Team6)
 - [🌊 해양 데이터 기반 퀴즈를 활용한 레이블링 게임, ‘문해(海)력 테스트’](https://github.com/qkrtnwjd4212/Seapower_test)
 <br>
