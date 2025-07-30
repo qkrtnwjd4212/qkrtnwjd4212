@@ -10,6 +10,7 @@
 - 🥇 부경대학교 - 메타버스 경진대회 대상 <sub>(2024.1.15)</sub>
 - 🏅 부경대학교 - 2024년 학교를 빛낸 얼굴 표창 <sub>(2025.2.24)</sub>
 - 🥉 부경대학교 - 프로그래밍 경진대회 장려상 <sub>(2025.5.27)</sub>
+- 🥉 한국디지털콘텐츠학회 - 하계종합학술대회 대학생 논문경진대회 발표논문 동상 <sub>(2025.7.5)</sub>
 <br>
 
 ## 📂 Project
@@ -22,6 +23,7 @@
 
 ## ✨ Experience
 - 💻 부경대학교 개발동아리 WAP <sub>(2022.03 ~ )</sub>
+- 📖 멀티캠퍼스 JAVA Spring Framework 중급 교육 과정 수료 <sub>(2023.01 ~ 2023.02)</sub>
 - 💻 Google Developer Group on Campus PKNU <sub>(2023.09 ~ )</sub>
 - 🎤 Google I/O Extended Watch Party Busan 연사 <sub>(2024.07)</sub>
 - 🎤 SeSAC Job Festival 연사 <sub>(2024.08)</sub>
