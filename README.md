@@ -50,6 +50,11 @@
 
 <br>
 
+## 📪 Contact
+- Email: qkrtnwjd4212@gmail.com
+- Linkedin: www.linkedin.com/in/sujeong-park-187432311
+
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=qkrtnwjd4212)](https://solved.ac/qkrtnwjd4212)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrtnwjd4212&layout=compact&theme=graywhite)
