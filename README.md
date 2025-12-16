@@ -19,6 +19,7 @@
 
 ## 📂 Project
 - [👵🏻 경증 치매 노인을 위한 AI 기억 노트, ‘ATTI’](https://github.com/H0ngJu/atti)
+- [🏃‍♂️‍➡️ 스마트인솔과 Mediapipe를 활용한 실시간 자세 분석 서비스](https://github.com/qkrtnwjd4212/Squirret_Backend)
 - [📈 유전 알고리즘을 이용한 TA 지표 최적화와 ESN 학습을 통한 주식 거래 시스템 구현](https://github.com/qkrtnwjd4212/Time_Series_Data_Project)
 - [🔥 라즈베리파이 기반 자동 소방 RC카와 스마트 도로 통제 시스템](https://github.com/qkrtnwjd4212/EmbeddedProject)
 - [🍳 요리 레시피 공유 웹페이지, ‘요리조리’](https://github.com/pknu-wap/2023_1_Wap_Web_Team6)
